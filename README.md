@@ -65,7 +65,7 @@ FATCA vs non-FATCA breakdown, income vs compliance trends, asset diversity by ju
 
 Heatmaps and scatter plots showing late filings, risk hotspots, and jurisdiction performance.
 
-![Risk Page](https://github.com/bhumikabharadwaj2205/-Operational-Tax-and-wealth-management/blob/main/tax%20dashboard%20images/compliance_risk.png?raw=true)
+![Risk Page](https://github.com/bhumikabharadwaj2205/-Operational-Tax-and-wealth-management/blob/main/tax%20dashboard%20images/compilance_risk.png?raw=true)
 
 
 ---
