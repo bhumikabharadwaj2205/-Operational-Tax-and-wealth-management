@@ -75,3 +75,32 @@ Heatmaps and scatter plots showing late filings, risk hotspots, and jurisdiction
 Highlights top analysts based on speed, accuracy, and automation usage.
 
 ![Analyst Page](https://github.com/bhumikabharadwaj2205/-Operational-Tax-and-wealth-management/blob/main/tax%20dashboard%20images/analyst_performance.png?raw=true)
+
+---
+
+## 📘 Key DAX Insight: Filed Report Percentage
+
+As part of building this dashboard, I came across an impactful DAX function that helped me measure the overall effectiveness of tax reporting: **Filed Report Percentage**. This became one of the most important KPIs in the project.
+
+---
+
+### 📌 DAX Formula
+
+
+### 🖼️ Screenshot: Filed Report Percentage KPI
+
+![Filed Report Percentage KPI](https://github.com/bhumikabharadwaj2205/-Operational-Tax-and-wealth-management/blob/main/tax%20dashboard%20images/filed_report_percentage.png?raw=true)
+
+
+### 🧮 What the Formula Does
+
+This DAX formula calculates the **percentage of clients who have filed their tax reports**.
+
+- `COUNTROWS(ClientData)` counts all the clients in the dataset.
+- `CALCULATE(..., ClientData[Report Status] = "Filed")` filters only those records where the report status is marked as "Filed".
+- `DIVIDE` divides the number of filed reports by the total number of clients, and handles any divide-by-zero errors safely.
+
+📊 **For example**:  
+If 3,500 out of 5,000 clients submitted their reports:
+
+
