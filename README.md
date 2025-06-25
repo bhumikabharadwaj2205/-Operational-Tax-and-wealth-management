@@ -48,7 +48,8 @@ These KPIs (Key Performance Indicators) help us understand how well the tax repo
 
 High-level KPIs such as compliance score, filing rate, automation usage, and high-risk clients.
 
-![Executive Summary](tax-dashboard-images/executive_summary.png)
+![Executive Summary](https://github.com/bhumikabharadwaj2205/-Operational-Tax-and-wealth-management/blob/main/tax%20dashboard%20images/executive_summary.png?raw=true)
+
 
 ---
 
