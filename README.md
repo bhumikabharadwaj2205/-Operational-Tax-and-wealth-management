@@ -57,7 +57,7 @@ High-level KPIs such as compliance score, filing rate, automation usage, and hig
 
 FATCA vs non-FATCA breakdown, income vs compliance trends, asset diversity by jurisdiction.
 
-![Client Portfolio](tax-dashboard-images/client_portfolio.png)
+![Client Portfolio](https://github.com/bhumikabharadwaj2205/-Operational-Tax-and-wealth-management/blob/main/tax%20dashboard%20images/client_portfolio.png?raw=true)
 
 ---
 
@@ -65,7 +65,8 @@ FATCA vs non-FATCA breakdown, income vs compliance trends, asset diversity by ju
 
 Heatmaps and scatter plots showing late filings, risk hotspots, and jurisdiction performance.
 
-![Risk Page](tax-dashboard-images/compliance_risk.png)
+![Risk Page](https://github.com/bhumikabharadwaj2205/-Operational-Tax-and-wealth-management/blob/main/tax%20dashboard%20images/compliance_risk.png?raw=true)
+
 
 ---
 
@@ -73,4 +74,4 @@ Heatmaps and scatter plots showing late filings, risk hotspots, and jurisdiction
 
 Highlights top analysts based on speed, accuracy, and automation usage.
 
-![Analyst Page](tax-dashboard-images/analyst_performance.png)
+![Analyst Page](https://github.com/bhumikabharadwaj2205/-Operational-Tax-and-wealth-management/blob/main/tax%20dashboard%20images/analyst_performance.png?raw=true)
