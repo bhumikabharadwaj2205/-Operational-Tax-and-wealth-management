@@ -48,7 +48,7 @@ These KPIs (Key Performance Indicators) help us understand how well the tax repo
 
 High-level KPIs such as compliance score, filing rate, automation usage, and high-risk clients.
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](tax-dashboard-images/executive_summary.png)
 
 ---
 
@@ -56,7 +56,7 @@ High-level KPIs such as compliance score, filing rate, automation usage, and hig
 
 FATCA vs non-FATCA breakdown, income vs compliance trends, asset diversity by jurisdiction.
 
-![FATCA Portfolio](images/fatca_portfolio.png)
+![Client Portfolio](tax-dashboard-images/client_portfolio.png)
 
 ---
 
@@ -64,7 +64,7 @@ FATCA vs non-FATCA breakdown, income vs compliance trends, asset diversity by ju
 
 Heatmaps and scatter plots showing late filings, risk hotspots, and jurisdiction performance.
 
-![Compliance & Risk](images/compliance_risk.png)
+![Risk Page](tax-dashboard-images/compliance_risk.png)
 
 ---
 
@@ -72,4 +72,4 @@ Heatmaps and scatter plots showing late filings, risk hotspots, and jurisdiction
 
 Highlights top analysts based on speed, accuracy, and automation usage.
 
-![Analyst Insights](images/analyst_performance.png)
+![Analyst Page](tax-dashboard-images/analyst_performance.png)
