@@ -1,19 +1,44 @@
-# 🧾 Operational Tax Reporting Optimization in Wealth Management (Power BI)
+# 🧾 Operational Tax Reporting Optimization in Wealth Management using Power BI, Power Query, DAX
 
 > A  project to modernize tax reporting operations for FATCA compliance using Power BI.
 
 ---
 
-## 📌 Project Overview
+## 🚀 Project Overview
 
-This project builds a centralized Power BI dashboard to help wealth management firms:
+This project demonstrates how data visualization and analytics can optimize **operational tax reporting** in wealth management, particularly under complex global regulations such as **FATCA** and **CRS**. Using **Power BI**, the dashboard centralizes compliance data, allowing teams to monitor risks, assess filing behavior, and streamline tax reporting processes.
 
-- Improve **compliance reporting efficiency**
-- Identify **FATCA/CRS-related risks**
-- Enhance **transparency**
-- Empower **decision-making**
+---
+## 📌 Business Problem
 
-Inspired by hands-on experience at HSBC’s Wealth Operations Tax and Reporting team, this solution demonstrates the real-world application of analytics in regulatory operations.
+Wealth management firms face difficulty meeting FATCA/CRS requirements due to:
+
+- Fragmented systems  
+- Manual workflows  
+- Regulatory complexity  
+- Poor compliance visibility
+
+This dashboard addresses those challenges with a **centralized, real-time, interactive** analytics solution.
+
+---
+## 📊 Key KPIs (Important Numbers We Track)
+
+These KPIs (Key Performance Indicators) help us understand how well the tax reporting process is working, and where we need to improve.
+
+| KPI Name                | What It Tells Us |
+|-------------------------|------------------|
+| **Filed Report %**      | How many clients have submitted their tax reports on time. |
+| **Average Compliance Score** | A score (from 0 to 100) that shows how well clients are following tax rules. |
+| **Automation Usage %**  | How many cases are handled by automated tools instead of manually. |
+| **Late Filing %**       | The percentage of reports that were submitted after the deadline. |
+| **High-Risk Clients**   | How many clients are considered risky because of errors or missing reports. |
+| **Average Processing Time** | How long it takes (on average) to process a report. |
+
+🧠 **Why These Matter Together**:
+- They help spot problems early (like late reports or risky clients)
+- Show if automation is helping the team work faster
+- Make it easier to decide where to focus attention (like which clients or regions need help)
+- Help the company stay compliant and avoid penalties
 
 ---
 
